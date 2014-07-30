@@ -1,0 +1,5 @@
+mmtest.lo: \
+ ../../../../../../../src/xdpd/fwd-modules/netfpga10g/src/netfpga/mmtest.c \
+ ../../../../../../../src/xdpd/fwd-modules/netfpga10g/src/netfpga/mmtest.h
+
+../../../../../../../src/xdpd/fwd-modules/netfpga10g/src/netfpga/mmtest.h:

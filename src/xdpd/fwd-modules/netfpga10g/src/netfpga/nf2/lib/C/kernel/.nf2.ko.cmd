@@ -1,0 +1,1 @@
+cmd_/root/netfpga/lib/C/kernel/nf2.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.8.0-29-generic/scripts/module-common.lds --build-id  -o /root/netfpga/lib/C/kernel/nf2.ko /root/netfpga/lib/C/kernel/nf2.o /root/netfpga/lib/C/kernel/nf2.mod.o
